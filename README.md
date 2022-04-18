@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1><iframe frameborder="none" width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/17848"></iframe></h1>
 [![Button](https://plugins.jetbrains.com/embeddable/install/17848)](https://plugins.jetbrains.com/embeddable/install/17848)
 ![CodeWars](https://www.codewars.com/users/martynovalex/badges/small)
