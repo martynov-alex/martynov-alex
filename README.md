@@ -1,6 +1,6 @@
 ### Hi guys, my name is Alex 👋
 
-I'm a Flutter developer in [Surf](https://surf.dev/).
+I'm a Flutter developer at [Surf](https://surf.dev/).
 
 <!--
 **martynov-alex/martynov-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
