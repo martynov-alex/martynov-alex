@@ -2,19 +2,16 @@
 
 I'm a newbie Flutter developer at [Surf](https://surf.dev/).
 
-<!--
-**martynov-alex/martynov-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tech stack: 
+[![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=dart&logoColor=blue)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter&logoColor=blue)](http://flutter.dev/)
+[![Test](https://img.shields.io/badge/-Test-05122A?style=flat-square&logo=dart)](https://dart.dev/guides/testing)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 
-Here are some ideas to get you started:
+#### Contacts:
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor)](https://t.me/MartynovAlex)  
+[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/martynovalex/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram)](https://www.instagram.com/xuxumba/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+#### Achievements:
 ![CodeWars](https://www.codewars.com/users/martynovalex/badges/small)
