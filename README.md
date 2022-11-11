@@ -7,6 +7,8 @@ I'm a newbie Flutter developer at [Surf](https://surf.dev/).
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter&logoColor=blue)](http://flutter.dev/)
 [![Test](https://img.shields.io/badge/-Test-05122A?style=flat-square&logo=dart)](https://dart.dev/guides/testing)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
+[![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)](https://git-scm.com/)
 
 #### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor)](https://t.me/MartynovAlex)  
