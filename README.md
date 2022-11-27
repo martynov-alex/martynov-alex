@@ -2,7 +2,7 @@
 
 I'm a newbie Flutter developer at [Surf](https://surf.dev/).
 
-Learning Android development at the same time.
+Also learning Android development.
 
 #### Tech stack: 
 [![Dart](https://img.shields.io/badge/-Dart_(is_awesome)-05122A?style=flat-square&logo=dart&logoColor=blue)](https://dart.dev/)
