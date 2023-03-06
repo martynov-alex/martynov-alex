@@ -1,6 +1,6 @@
 ### Hi guys, my name is Alex 👋
 
-I'm a newbie Flutter developer at [Surf](https://surf.dev/).
+I'm a Flutter developer at [Surf](https://surf.dev/).
 
 Also learning Android development.
 
