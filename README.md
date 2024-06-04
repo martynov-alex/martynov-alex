@@ -1,8 +1,8 @@
 ### Hi guys, my name is Alex 👋
 
-I'm a Flutter developer at [Surf](https://surf.dev/).
+I'm a Flutter developer.
 
-Also learning Android development.
+
 
 #### Tech stack: 
 [![Dart](https://img.shields.io/badge/-Dart_(is_awesome)-05122A?style=flat-square&logo=dart&logoColor=blue)](https://dart.dev/)
@@ -19,3 +19,5 @@ Also learning Android development.
 
 #### Achievements:
 ![CodeWars](https://www.codewars.com/users/martynovalex/badges/small)
+
+[![LeetCode user martynovalex](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=martynovalex%20%E2%80%94%20LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmartynovalex&logo=leetcode&logoColor=yellow)](https://leetcode.com/martynovalex/)
