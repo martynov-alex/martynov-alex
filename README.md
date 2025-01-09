@@ -14,7 +14,7 @@ I'm a Golang and Flutter developer.
 
 #### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor)](https://t.me/MartynovAlex)  
-[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/martynovalex/)  
+[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=inspire&logoColor=blue)](https://www.linkedin.com/in/martynovalex/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=FF0069)](https://www.instagram.com/xuxumba/)  
 
 #### Achievements:
