@@ -5,7 +5,7 @@ Golang and Flutter developer.
 
 
 #### Tech stack:
-[![Golang](https://img.shields.io/badge/-Golang (is_awesome)-05122A?style=flat-square&logo=go&logoColor=00ADD8)](https://go.dev/)
+[![Golang](https://img.shields.io/badge/-Golang%20(is_awesome)-05122A?style=flat-square&logo=go&logoColor=00ADD8)](https://go.dev/)
 [![Dart](https://img.shields.io/badge/-Dart_(is_awesome_as_well)-05122A?style=flat-square&logo=dart&logoColor=blue)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=flutter&logoColor=blue)](http://flutter.dev/)
 [![Test](https://img.shields.io/badge/-Test-05122A?style=flat-square&logo=dart)](https://dart.dev/guides/testing)
