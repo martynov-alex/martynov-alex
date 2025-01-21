@@ -1,6 +1,6 @@
 ### Hi guys, my name is Alexander 👋
 
-I'm a Golang and Flutter developer.
+I'm a Flutter and Golang developer.
 
 
 
